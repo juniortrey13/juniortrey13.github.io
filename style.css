@@ -25,3 +25,21 @@ p {
   font-style: normal;
   font-size: small;
 }
+/* CSS Code */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 50vh; /* This ensures the container takes up the full viewport height */
+}
+
+.linkedin-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #0077B5; /* LinkedIn's brand color */
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 10px; /* Adjust the margin as needed */
+}
