@@ -21,3 +21,7 @@ p {
   border-bottom: 1px solid #f4f4f4;
   background-color: rgba(0,0,0, 0.2)
 }
+.contact-info{
+  font-style: normal;
+  font-size: small;
+}
